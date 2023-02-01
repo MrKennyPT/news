@@ -1,0 +1,51 @@
+{
+  "status": "ok",
+  "totalResults": 9,
+  "articles": [
+    {
+      "author": "League Of Legends",
+      "title": "Novo Roster de League of Legends para o arranque de 2023",
+      "publishedAt": "Jan 24, 2023"
+    },
+    {
+      "author": "Institucional",
+      "title": "Jorge Gabriel é padrinho e streamer da FTW!",
+      "publishedAt": "Jan 22, 2023"
+    },
+    {
+      "author": "Valorant",
+      "title": "FTW Esports com novo projeto de VALORANT para 2023",
+      "publishedAt": "Jan 6, 2023"
+    },
+    {
+      "author": "SimRacing",
+      "title": "FTW F1 campeã da Liga Pro da Portugal Racing League",
+      "publishedAt": "Nov 29, 2022"
+    },
+    {
+      "author": "FIFA",
+      "title": "Casa Pia FTW garante presença na FIFAe Club Series 2023",
+      "publishedAt": "Nov 29, 2022"
+    },
+    {
+      "author": "COD",
+      "title": "FTW com equipa de Call of Duty MW2",
+      "publishedAt": "Nov 29, 2022"
+    },
+    {
+      "author": "CS:GO",
+      "title": "FTW CS:GO Campeões OMEN WGR RETAKE Season 5",
+      "publishedAt": "Nov 28, 2022"
+    },
+    {
+      "author": "FTW,Institucional",
+      "title": "FTW x OMEN 2023",
+      "publishedAt": "Nov 21, 2022"
+    },
+    {
+      "author": "FTW",
+      "title": "FTW na Lisboa Games Week 2022",
+      "publishedAt": "Nov 9, 2022"
+    }
+  ]
+}
