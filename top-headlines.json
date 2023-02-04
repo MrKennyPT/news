@@ -6,55 +6,64 @@
       "author": "League Of Legends",
       "title": "Novo Roster de League of Legends para o arranque de 2023",
       "publishedAt": "Jan 24, 2023",
-      "urlToImage": "https://cdn.ftw.pt/website/files/images/news-pics2/2023/capas/Novo_Roster_LOL_2023.jpeg"
+      "urlToImage": "https://cdn.ftw.pt/website/files/images/news-pics2/2023/capas/Novo_Roster_LOL_2023.jpeg",
+      "urlToArticle": "https://ftw.pt/news/novo-roster-de-league-of-legends-para-o-arranque-de-2023"
     },
     {
       "author": "Institucional",
       "title": "Jorge Gabriel é padrinho e streamer da FTW!",
       "publishedAt": "Jan 22, 2023",
-      "urlToImage": "https://cdn.ftw.pt/website/files/images/news-pics2/2023/capas/JorgeGabrielCapa.jpeg"
+      "urlToImage": "https://cdn.ftw.pt/website/files/images/news-pics2/2023/capas/JorgeGabrielCapa.jpeg",
+      "urlToArticle": "https://ftw.pt/news/jorge-gabriel-padrinho-e-streamer-da-ftw"
     },
     {
       "author": "Valorant",
       "title": "FTW Esports com novo projeto de VALORANT para 2023",
       "publishedAt": "Jan 6, 2023",
-      "urlToImage": "https://cdn.ftw.pt/website/files/images/news-pics2/2023/capas/valorant_nova_equipa_2023_q1-min.jpg"
+      "urlToImage": "https://cdn.ftw.pt/website/files/images/news-pics2/2023/capas/valorant_nova_equipa_2023_q1-min.jpg",
+      "urlToArticle": "https://ftw.pt/news/ftw-esports-com-novo-projeto-de-valorant-para-2023"
     },
     {
       "author": "SimRacing",
       "title": "FTW F1 campeã da Liga Pro da Portugal Racing League",
       "publishedAt": "Nov 29, 2022",
-      "urlToImage": "https://cdn.ftw.pt/website/files/images/news-pics2/2022/SimRacing/capa-campeões-f1-2022.jpeg"
+      "urlToImage": "https://cdn.ftw.pt/website/files/images/news-pics2/2022/SimRacing/capa-campeões-f1-2022.jpeg",
+      "urlToArticle": "https://ftw.pt/news/ftw-campea-da-liga-pro-da-portugal-racing-league"
     },
     {
       "author": "FIFA",
       "title": "Casa Pia FTW garante presença na FIFAe Club Series 2023",
       "publishedAt": "Nov 29, 2022",
-      "urlToImage": "https://cdn.ftw.pt/website/files/images/news-pics2/2022/FIFA/capa-qualificados-fifa-eclub-series-2023.jpeg.jpg"
+      "urlToImage": "https://cdn.ftw.pt/website/files/images/news-pics2/2022/FIFA/capa-qualificados-fifa-eclub-series-2023.jpeg.jpg",
+      "urlToArticle": "https://ftw.pt/news/casa-pia-ftw-garante-presena-na-fifae-club-series-2023"
     },
     {
       "author": "COD",
       "title": "FTW com equipa de Call of Duty MW2",
       "publishedAt": "Nov 29, 2022",
-      "urlToImage": "https://cdn.ftw.pt/website/files/images/news-pics2/2022/Capas/capa-cod-criadores-de-conteudos-min.jpeg"
+      "urlToImage": "https://cdn.ftw.pt/website/files/images/news-pics2/2022/Capas/capa-cod-criadores-de-conteudos-min.jpeg",
+      "urlToArticle": "https://ftw.pt/news/ftw-com-equipa-de-cod-mw2-2022"
     },
     {
       "author": "CS:GO",
       "title": "FTW CS:GO Campeões OMEN WGR RETAKE Season 5",
       "publishedAt": "Nov 28, 2022",
-      "urlToImage": "https://cdn.ftw.pt/website/files/images/news-pics2/2022/CSGO/campeoes-retake-t5-min.jpeg"
+      "urlToImage": "https://cdn.ftw.pt/website/files/images/news-pics2/2022/CSGO/campeoes-retake-t5-min.jpeg",
+      "urlToArticle": "https://ftw.pt/news/ftw-csgo-campeoes-omen-wgr-retake-season-5"
     },
     {
       "author": "FTW,Institucional",
       "title": "FTW x OMEN 2023",
       "publishedAt": "Nov 21, 2022",
-      "urlToImage": "https://cdn.ftw.pt/website/files/images/news-pics2/2022/Capas/RenovaçãoOMEN.jpeg"
+      "urlToImage": "https://cdn.ftw.pt/website/files/images/news-pics2/2022/Capas/RenovaçãoOMEN.jpeg",
+      "urlToArticle": "https://ftw.pt/news/ftw-x-omen-2023"
     },
     {
       "author": "FTW",
       "title": "FTW na Lisboa Games Week 2022",
       "publishedAt": "Nov 9, 2022",
-      "urlToImage": "https://cdn.ftw.pt/website/files/images/news-pics2/2022/Capas/FTWLGW2022.jpg"
+      "urlToImage": "https://cdn.ftw.pt/website/files/images/news-pics2/2022/Capas/FTWLGW2022.jpg",
+      "urlToArticle": "https://ftw.pt/news/ftw-na-lisboa-games-week-2022"
     }
   ]
 }
